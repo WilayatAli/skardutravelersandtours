@@ -5,8 +5,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://skardutravelersandtours.com/</loc>
   <lastmod>2025-04-06T12:43:01+00:00</lastmod>
@@ -20,12 +18,12 @@
 <url>
   <loc>https://skardutravelersandtours.com/gallery</loc>
   <lastmod>2025-04-06T12:43:01+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://skardutravelersandtours.com/about</loc>
   <lastmod>2025-04-06T12:43:01+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.50</priority>
 </url>
 <url>
   <loc>https://skardutravelersandtours.com/contact</loc>
@@ -45,12 +43,12 @@
 <url>
   <loc>https://skardutravelersandtours.com/skarduhunzabyroad</loc>
   <lastmod>2025-04-06T12:43:01+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://skardutravelersandtours.com/hunzavalleysixdaysbyroad</loc>
   <lastmod>2025-04-06T12:43:01+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://skardutravelersandtours.com/skardutoureightdays</loc>
