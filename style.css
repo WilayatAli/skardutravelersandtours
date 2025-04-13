@@ -5540,6 +5540,9 @@ Due to the split circle of progress-left and progress right, we must use the ani
 .single-tour-inner h2 {
   margin-bottom: 35px;
 }
+.single-tour-inner h1 {
+  margin-bottom: 35px;
+}
 
 .single-tour-inner .package-meta {
   margin-top: 0;
